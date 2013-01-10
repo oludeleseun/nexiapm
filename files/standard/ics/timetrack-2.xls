@@ -1,0 +1,127 @@
+				<html xmlns:o="urn:schemas-microsoft-com:office:office"
+				xmlns:x="urn:schemas-microsoft-com:office:excel"
+				xmlns="http://www.w3.org/TR/REC-html40">
+
+				<head>
+				<meta http-equiv=Content-Type content="text/html; charset=utf-8">
+				<meta name=ProgId content=Excel.Sheet>
+				<!--[if gte mso 9]><xml>
+				 <o:DocumentProperties>
+				  <o:LastAuthor>Collabtive</o:LastAuthor>
+				  <o:LastSaved>Africa/Lagos </o:LastSaved>
+				  <o:Version>1</o:Version>
+				 </o:DocumentProperties>
+				 <o:OfficeDocumentSettings>
+				  <o:DownloadComponents/>
+				 </o:OfficeDocumentSettings>
+				</xml><![endif]-->
+				<style>
+				<!--table
+					{mso-displayed-decimal-separator:"\.";
+					mso-displayed-thousand-separator:"\,";}
+				@page
+					{margin:1.0in .75in 1.0in .75in;
+					mso-header-margin:.5in;
+					mso-footer-margin:.5in;}
+				tr
+					{mso-height-source:auto;}
+				col
+					{mso-width-source:auto;}
+				br
+					{mso-data-placement:same-cell;}
+				.style0
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:11.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+					.style1
+					{mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					white-space:nowrap;
+					mso-rotate:0;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					color:windowtext;
+					font-size:12.0pt;
+					font-weight:600;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					border:none;
+					mso-protection:locked visible;
+					mso-style-name:Normal;
+					mso-style-id:0;}
+				td
+					{mso-style-parent:style0;
+					padding-top:1px;
+					padding-right:1px;
+					padding-left:1px;
+					mso-ignore:padding;
+					color:windowtext;
+					font-size:11.0pt;
+					font-weight:400;
+					font-style:normal;
+					text-decoration:none;
+					font-family:Arial;
+					mso-generic-font-family:auto;
+					mso-font-charset:0;
+					mso-number-format:General;
+					text-align:general;
+					vertical-align:bottom;
+					border:none;
+					mso-background-source:auto;
+					mso-pattern:auto;
+					mso-protection:locked visible;
+					white-space:nowrap;
+					mso-rotate:0;}
+				.xl24
+					{mso-style-parent:style0;
+					white-space:normal;}
+						.xl25
+					{mso-style-parent:style1;
+					white-space:normal;}
+				-->
+				</style>
+				<!--[if gte mso 9]><xml>
+				 <x:ExcelWorkbook>
+				  <x:ExcelWorksheets>
+				   <x:ExcelWorksheet>
+					<x:Name>srirmam</x:Name>
+					<x:WorksheetOptions>
+					 <x:Selected/>
+					 <x:ProtectContents>False</x:ProtectContents>
+					 <x:ProtectObjects>False</x:ProtectObjects>
+					 <x:ProtectScenarios>False</x:ProtectScenarios>
+					</x:WorksheetOptions>
+				   </x:ExcelWorksheet>
+				  </x:ExcelWorksheets>
+				  <x:WindowHeight>10005</x:WindowHeight>
+				  <x:WindowWidth>10005</x:WindowWidth>
+				  <x:WindowTopX>120</x:WindowTopX>
+				  <x:WindowTopY>135</x:WindowTopY>
+				  <x:ProtectStructure>False</x:ProtectStructure>
+				  <x:ProtectWindows>False</x:ProtectWindows>
+				 </x:ExcelWorkbook>
+				</xml><![endif]-->
+				</head>
+
+				<body link=blue vlink=purple>
+				<table x:str border=0 cellpadding=0 cellspacing=0 style="border-collapse: collapse;table-layout:fixed;"><tr><tr><td class = x125 width=128 ><h3>Project</h3></td><td class = x125 width=128 ><h3>Task</h3></td><td class = x125 width=128 ><h3>User</h3></td><td class = x125 width=128 ><h3>Hourly rate</h3></td><td class = x125 width=128 ><h3>Comment</h3></td><td class = x125 width=128 ><h3>Day</h3></td><td class = x125 width=128 ><h3>Started</h3></td><td class = x125 width=128 ><h3>Ended</h3></td><td class = x125 width=128 ><h3>Estimated Hours</h3></td><td class = x125 width=128 ><h3>Estimated Cost</h3></td><td class = x125 width=128 ><h3>Hours</h3></td><td class = x125 width=128 ><h3>Actual Cost</h3></td><td class = x125 width=128 ><h3>Hour Variance</h3></td><td class = x125 width=128 ><h3>Cost Variance</h3></td></tr><tr><td class=xl24 width=64 >Nexia Deployment</td><td class=xl24 width=64 ></td><td class=xl24 width=64 >admin</td><td class=xl24 width=64 >2500</td><td class=xl24 width=64 >Second day of the project</td><td class=xl24 width=64 >20.12.11</td><td class=xl24 width=64 >09:00</td><td class=xl24 width=64 >17:00</td><td class=xl24 width=64 >6</td><td class=xl24 width=64 >15,000</td><td class=xl24 width=64 >8</td><td class=xl24 width=64 >20,000</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >5,000</td></tr><tr><td class=xl24 width=64 >Nexia Deployment</td><td class=xl24 width=64 >Edit admin.css File</td><td class=xl24 width=64 >admin</td><td class=xl24 width=64 >2500</td><td class=xl24 width=64 >Work done on specified day</td><td class=xl24 width=64 >19.12.11</td><td class=xl24 width=64 >09:00</td><td class=xl24 width=64 >17:00</td><td class=xl24 width=64 >8</td><td class=xl24 width=64 >20,000</td><td class=xl24 width=64 >8</td><td class=xl24 width=64 >20,000</td><td class=xl24 width=64 >0</td><td class=xl24 width=64 >0</td></tr><tr><td class=xl24 width=64 >Nexia Deployment</td><td class=xl24 width=64 >Edit admin.css File</td><td class=xl24 width=64 >admin</td><td class=xl24 width=64 >2500</td><td class=xl24 width=64 >Meetings with clients were completed today</td><td class=xl24 width=64 >20.12.11</td><td class=xl24 width=64 >09:00</td><td class=xl24 width=64 >17:00</td><td class=xl24 width=64 >10</td><td class=xl24 width=64 >25,000</td><td class=xl24 width=64 >8</td><td class=xl24 width=64 >20,000</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >5,000</td></tr><tr><td class=xl24 width=64 >Nexia Deployment</td><td class=xl24 width=64 >Edit admin.css File</td><td class=xl24 width=64 >admin</td><td class=xl24 width=64 >2500</td><td class=xl24 width=64 >dffdfdf fgfdg</td><td class=xl24 width=64 >21.12.11</td><td class=xl24 width=64 >13:47</td><td class=xl24 width=64 >15:47</td><td class=xl24 width=64 >3</td><td class=xl24 width=64 >7,500</td><td class=xl24 width=64 >2</td><td class=xl24 width=64 >5,000</td><td class=xl24 width=64 >1</td><td class=xl24 width=64 >2,500</td></tr><tr><td class=xl24 width=64 >Nexia Deployment</td><td class=xl24 width=64 >Edit admin.css File</td><td class=xl24 width=64 >admin</td><td class=xl24 width=64 >2500</td><td class=xl24 width=64 >sdsdasd</td><td class=xl24 width=64 >21.12.11</td><td class=xl24 width=64 >13:49</td><td class=xl24 width=64 >16:49</td><td class=xl24 width=64 >7</td><td class=xl24 width=64 >17,500</td><td class=xl24 width=64 >3</td><td class=xl24 width=64 >7,500</td><td class=xl24 width=64 >4</td><td class=xl24 width=64 >10,000</td></tr><tr><td colspan=8 class=xl24 width=64 ><b>Total:</b></td><td class=xl24 width=64 ><b>34</b></td><td class=xl24 width=64 ><b>85,000</b></td><td class=xl24 width=64 ><b>29</b></td><td class=xl24 width=64 ><b>72,500</b></td><td class=xl24 width=64 ><b>9</b></td><td class=xl24 width=64 ><b>22,500</b></td></table></body></html>
