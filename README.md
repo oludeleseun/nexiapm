@@ -7,7 +7,7 @@ Nexia PM is an open source project management software, written with PHP. This a
 ## Repository Management
 
 We use Github issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
+
 FEATURE REQUESTS.
 
 This repository is a "distribution" one, built by our release preparation script. 
