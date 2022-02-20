@@ -5,5 +5,5 @@ $db_name = 'pm';
 
 $db_user = 'root';
 
-$db_pass = '';
+$db_pass = 'root';
 ?>
